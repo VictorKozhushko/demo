@@ -13,4 +13,10 @@
 Здесь мы добавляем изменения для feature
 Здесь изменения для второго коммита
 
+Test
+
 Pushing of commit for Jenkins
+
+Windows компьютер
+
+>>>>>>> 0217ce9cb7af4d38cad951a1ca405e80e36dc0f7
